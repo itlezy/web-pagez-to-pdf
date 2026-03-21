@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier.
 _src_path: "../_py_template"
-_commit: "v1.7.4"
+_commit: "v1.7.4-3-g8ae837d"
 project_name: "web-pagez-to-pdf"
 project_kind: "qt_app"
 package_name: "web_pagez_to_pdf"
@@ -26,3 +26,4 @@ runtime_dependencies:
   - "pywin32>=311"
 
   - "reportlab>=4.4.4"
+
