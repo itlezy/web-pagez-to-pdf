@@ -18,7 +18,7 @@ classifiers = [
 ]
 dependencies = [
 
-  "threep-commons @ git+https://github.com/Threepwood-7/threep-commons@v0.3.1",
+  "threep-commons @ git+https://github.com/threepwood-py-labs/threep-commons@v0.3.1",
 
 
   "PySide6>=6.10.2",
@@ -40,9 +40,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Threepwood-7/web-pagez-to-pdf"
-Repository = "https://github.com/Threepwood-7/web-pagez-to-pdf"
-Issues = "https://github.com/Threepwood-7/web-pagez-to-pdf/issues"
+Homepage = "https://github.com/threepwood-py-labs/web-pagez-to-pdf"
+Repository = "https://github.com/threepwood-py-labs/web-pagez-to-pdf"
+Issues = "https://github.com/threepwood-py-labs/web-pagez-to-pdf/issues"
 
 [tool.hatch.env]
 installer = "uv"
